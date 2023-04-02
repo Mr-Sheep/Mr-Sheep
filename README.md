@@ -11,3 +11,4 @@
 - Networking, currently maintaining AS60326 and AS211323
 - Censorship-free internet project
 - Wild Chicken University
+- A blog no one reads: [https://blog.snorlax.blue/](https://blog.snorlax.blue/)
