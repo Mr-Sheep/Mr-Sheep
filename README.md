@@ -12,3 +12,6 @@
 - Censorship-free internet project
 - Wild Chicken University
 - A blog no one reads: [https://blog.snorlax.blue/](https://blog.snorlax.blue/)
+
+**Dream:**
+- A trip to Iceland
