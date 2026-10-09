@@ -1,6 +1,7 @@
-- Fan of Late Night Commedy programs
+- Fan of Late Night Comedy programs
 - My friend told me that I look like [Snorlax](https://en.wikipedia.org/wiki/Snorlax)
-- CS @ UIUC 🌽. 
+- CS @ 🌽.
+- Some Banana Company
 
 **Projects:**
 - Networking, currently maintaining AS60326 and AS211323
