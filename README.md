@@ -3,6 +3,7 @@
 - CS @ 🌽.
 - Some Banana Company
 
+
 **Projects:**
 - Networking, currently maintaining AS60326 and AS211323
 - Censorship-free internet project
@@ -12,3 +13,4 @@
 
 **Dream:**
 - more friends
+- a huge raraki (someone asked me to make sure to put the word **huge** here, and they told me raraki a mysteries creature that cannot be observed)
